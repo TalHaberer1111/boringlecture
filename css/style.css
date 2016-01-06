@@ -1,0 +1,19 @@
+h2.intro {
+  color: orange;
+  font-family: fantasy;
+  text-align: center;
+}
+
+p.intro {
+  font-style: italic;
+}
+
+.intro {
+  font-size: 50;
+}
+
+img.intro {
+  width: 600px;
+ image-resolution: snap;
+
+}
